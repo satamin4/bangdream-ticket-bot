@@ -24,8 +24,7 @@ jobs:
 
     - name: 必要なツールを自動インストール
       run: |
-        pip install requests playwright
-        playwright install chromium
+        pip install requests beautifulsoup4
 
     - name: プログラムの実行！
       run: python bangdream_ticket.py
