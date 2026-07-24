@@ -1,10 +1,4 @@
 {
-  "https://bang-dream.com/events/bushiroad-fashion-journey/": {
-    "title": "Bushiroad Fashion Journey",
-    "details": "ライブ / 開催日 / 2026年10月25日(日) / 場所 / Shibuya Hikarie / MyGO!!!!! / 夢限大みゅーたいぷ",
-    "status": "ℹ️ イベント情報公開",
-    "link": "https://bang-dream.com/events/bushiroad-fashion-journey/"
-  },
   "https://bang-dream.com/events/millsage_1st/": {
     "title": "millsage 1st LIVE",
     "details": "ライブ / 開催日 / 2026年12月25日(金) / 場所 / Spotify O-WEST / millsage",
@@ -29,6 +23,12 @@
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/mygo_9th_hyogo/"
   },
+  "https://bang-dream.com/events/bushiroad-fashion-journey/": {
+    "title": "Bushiroad Fashion Journey",
+    "details": "ライブ / 開催日 / 2026年10月25日(日) / 場所 / Shibuya Hikarie / MyGO!!!!! / 夢限大みゅーたいぷ",
+    "status": "ℹ️ イベント情報公開",
+    "link": "https://bang-dream.com/events/bushiroad-fashion-journey/"
+  },
   "https://bang-dream.com/events/avemujica_7th/": {
     "title": "Ave Mujica 7th LIVE「Virtus」",
     "details": "ライブ / 開催日 / 2026年10月24日(土)・25日(日) / 場所 / 京王アリーナ TOKYO / Ave Mujica",
@@ -48,7 +48,7 @@
     "link": "https://bang-dream.com/events/13th-live-day2/"
   },
   "https://bang-dream.com/events/13th-live-day1/": {
-    "title": "BanG Dream! 13th☆LIVE DAY1 : Poppin'Party",
+    "title": "BanG Dream! 13th☆LIVE DAY1 : Poppin'Party「Now Roading♪♪」",
     "details": "ライブ / 開催日 / 2026年10月10日(土) / 場所 / 東京ガーデンシアター / Poppin'Party",
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/13th-live-day1/"
