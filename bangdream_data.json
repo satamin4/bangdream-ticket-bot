@@ -1,21 +1,15 @@
 {
-  "https://bang-dream.com/events/fujimiyako_exhibition/": {
-    "title": "藤都子展～16歳～",
-    "details": "イベント / 開催日 / ・2026年9月19日(土) / AKIHABARAゲーマーズ本店6階 イベントスペース / ・2026年9月20日(日)～10月4日(日) / AKIHABARAゲーマーズ本店4階 ブシロードストア内 / ・2026年9月20日(日)～10月2日(金) / BanG Dream! STORE　池袋PARCO本館 6F / 夢限大みゅーたいぷ",
+  "https://bang-dream.com/events/millsage_1st/": {
+    "title": "millsage 1st LIVE",
+    "details": "ライブ / 開催日 / 2026年12月25日(金) / 場所 / Spotify O-WEST / millsage",
     "status": "ℹ️ イベント情報公開",
-    "link": "https://bang-dream.com/events/fujimiyako_exhibition/"
+    "link": "https://bang-dream.com/events/millsage_1st/"
   },
   "https://bang-dream.com/events/nakamachiarale_live2026/": {
     "title": "NAKAMACHI ARALE LIVE 2026「RESONEXT」",
     "details": "ライブ / 開催日 / 2026年12月24日(木) / 場所 / 大手町三井ホール / 夢限大みゅーたいぷ",
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/nakamachiarale_live2026/"
-  },
-  "https://bang-dream.com/events/millsage_1st/": {
-    "title": "millsage 1st LIVE",
-    "details": "ライブ / 開催日 / 2026年12月25日(金) / 場所 / Spotify O-WEST / millsage",
-    "status": "ℹ️ イベント情報公開",
-    "link": "https://bang-dream.com/events/millsage_1st/"
   },
   "https://bang-dream.com/events/ikka-dumb-rock_1st/": {
     "title": "一家Dumb Rock! 1st LIVE",
@@ -70,6 +64,12 @@
     "details": "イベント / 開催日 / 2026年9月27日(日) / 場所 / パシフィコ横浜 会議センターメインホール / Roselia",
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/radioshout_prost/"
+  },
+  "https://bang-dream.com/events/fujimiyako_exhibition/": {
+    "title": "藤都子展～16歳～",
+    "details": "イベント / 開催日 / ・2026年9月19日(土) / AKIHABARAゲーマーズ本店6階 イベントスペース / ・2026年9月20日(日)～10月4日(日) / AKIHABARAゲーマーズ本店4階 ブシロードストア内 / ・2026年9月20日(日)～10月2日(金) / BanG Dream! STORE　池袋PARCO本館 6F / 夢限大みゅーたいぷ",
+    "status": "ℹ️ イベント情報公開",
+    "link": "https://bang-dream.com/events/fujimiyako_exhibition/"
   },
   "https://bang-dream.com/events/morfonica_live_2026/": {
     "title": "Morfonica LIVE「Movement」",
