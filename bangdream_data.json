@@ -65,17 +65,17 @@
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/radioshout_prost/"
   },
-  "https://bang-dream.com/events/fujimiyako_exhibition/": {
-    "title": "藤都子展～16歳～",
-    "details": "イベント / 開催日 / ・2026年9月19日(土) / AKIHABARAゲーマーズ本店6階 イベントスペース / ・2026年9月20日(日)～10月4日(日) / AKIHABARAゲーマーズ本店4階 ブシロードストア内 / ・2026年9月20日(日)～10月2日(金) / BanG Dream! STORE　池袋PARCO本館 6F / 夢限大みゅーたいぷ",
-    "status": "ℹ️ イベント情報公開",
-    "link": "https://bang-dream.com/events/fujimiyako_exhibition/"
-  },
   "https://bang-dream.com/events/morfonica_live_2026/": {
     "title": "Morfonica LIVE「Movement」",
     "details": "ライブ / 開催日 / 2026年9月22日(火・祝) / 場所 / TACHIKAWA STAGE GARDEN / Morfonica",
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/morfonica_live_2026/"
+  },
+  "https://bang-dream.com/events/fujimiyako_exhibition/": {
+    "title": "藤都子展～16歳～",
+    "details": "イベント / 開催日 / 2026年9月19日(土)～10月4日(日) / 場所 / AKIHABARAゲーマーズ本店6階 イベントスペース・4階 ブシロードストア内、BanG Dream! STORE(池袋PARCO本館 6F) / 夢限大みゅーたいぷ",
+    "status": "ℹ️ イベント情報公開",
+    "link": "https://bang-dream.com/events/fujimiyako_exhibition/"
   },
   "https://bang-dream.com/events/anierafesta2026/": {
     "title": "ナガノアニエラフェスタ2026",
