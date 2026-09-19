@@ -1,4 +1,10 @@
 {
+  "https://bang-dream.com/events/miyako_atelier/": {
+    "title": "みやこのアトリエ",
+    "details": "イベント / 開催日 / 2027年3月20日(土) / 場所 / 学校法人片柳学園　日本工学院専門学校　片柳記念ホール / 夢限大みゅーたいぷ",
+    "status": "ℹ️ イベント情報公開",
+    "link": "https://bang-dream.com/events/miyako_atelier/"
+  },
   "https://bang-dream.com/events/roselia-10th-anniversary-live-tour/": {
     "title": "Roselia 10th Anniversary LIVE TOUR",
     "details": "ライブ / 開催日 / 2027年1月30日(土)・2月28日(日)・3月14日(日)・4月25日(日) / 場所 / TOYOTA ARENA TOKYO・愛知県芸術劇場 大ホール・仙台サンプラザホール・福岡サンパレス / Roselia",
@@ -106,12 +112,6 @@
     "details": "ライブ / 開催日 / 2026年9月19日(土)・20日(日)・21日(月・祝) / 場所 / 滋賀県草津市 烏丸半島芝生広場 (滋賀県琵琶湖博物館西隣 多目的広場) / 概要 / 9月19日(土) RAISE A SUILEN出演 / RAISE A SUILEN",
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/fest-inazuma2026/"
-  },
-  "https://bang-dream.com/events/bm-echoes-festival-2026/": {
-    "title": "BM-ECHOES FESTIVAL 2026",
-    "details": "ライブ / 開催日 / 2026年9月5日(土)・9月6日(日) / 場所 / Zepp Osaka Bayside、Zepp Nagoya / 概要 / 夢限大みゅーたいぷ出演 / 夢限大みゅーたいぷ",
-    "status": "ℹ️ イベント情報公開",
-    "link": "https://bang-dream.com/events/bm-echoes-festival-2026/"
   },
   "https://bang-dream.com/events/page/2/": {
     "title": "2",
