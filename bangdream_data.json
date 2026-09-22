@@ -11,6 +11,12 @@
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/roselia-10th-anniversary-live-tour/"
   },
+  "https://bang-dream.com/events/eleganza/": {
+    "title": "Morfonica LIVE「eleganza」",
+    "details": "ライブ / 開催日 / 2027年1月9日(土) / 場所 / Kanadevia Hall / Morfonica",
+    "status": "ℹ️ イベント情報公開",
+    "link": "https://bang-dream.com/events/eleganza/"
+  },
   "https://bang-dream.com/events/millsage_1st/": {
     "title": "millsage LIVE 001「極夜」",
     "details": "ライブ / 開催日 / 2026年12月25日(金) / 場所 / Spotify O-WEST / millsage",
@@ -107,12 +113,6 @@
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/anierafesta2026/"
   },
-  "https://bang-dream.com/events/fest-inazuma2026/": {
-    "title": "FEST. INAZUMA 2026",
-    "details": "ライブ / 開催日 / 2026年9月19日(土)・20日(日)・21日(月・祝) / 場所 / 滋賀県草津市 烏丸半島芝生広場 (滋賀県琵琶湖博物館西隣 多目的広場) / 概要 / 9月19日(土) RAISE A SUILEN出演 / RAISE A SUILEN",
-    "status": "ℹ️ イベント情報公開",
-    "link": "https://bang-dream.com/events/fest-inazuma2026/"
-  },
   "https://bang-dream.com/events/page/2/": {
     "title": "2",
     "details": "",
@@ -137,10 +137,10 @@
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/page/5/"
   },
-  "https://bang-dream.com/events/page/16/": {
-    "title": "16",
+  "https://bang-dream.com/events/page/17/": {
+    "title": "17",
     "details": "",
     "status": "ℹ️ イベント情報公開",
-    "link": "https://bang-dream.com/events/page/16/"
+    "link": "https://bang-dream.com/events/page/17/"
   }
 }
