@@ -1,10 +1,4 @@
 {
-  "https://bang-dream.com/events/machiasobi_vol31/": {
-    "title": "マチ★アソビ vol.31",
-    "details": "イベント",
-    "status": "ℹ️ イベント情報公開",
-    "link": "https://bang-dream.com/events/machiasobi_vol31/"
-  },
   "https://bang-dream.com/events/miyako_atelier/": {
     "title": "みやこのアトリエ",
     "details": "イベント / 開催日 / 2027年3月20日(土) / 場所 / 学校法人片柳学園　日本工学院専門学校　片柳記念ホール / 夢限大みゅーたいぷ",
@@ -76,6 +70,12 @@
     "details": "ライブ / 開催日 / 2026年10月24日(土)・25日(日) / 場所 / 京王アリーナ TOKYO / Ave Mujica",
     "status": "ℹ️ イベント情報公開",
     "link": "https://bang-dream.com/events/avemujica_7th/"
+  },
+  "https://bang-dream.com/events/machiasobi_vol31/": {
+    "title": "マチ★アソビ vol.31",
+    "details": "イベント / 開催日 / 2026年10月17日(土)・18日(日) / 場所 / 徳島県徳島市",
+    "status": "ℹ️ イベント情報公開",
+    "link": "https://bang-dream.com/events/machiasobi_vol31/"
   },
   "https://bang-dream.com/events/13th-live-day3/": {
     "title": "BanG Dream! 13th☆LIVE DAY3 : RAISE A SUILEN「EXTREME EXPRESS」",
